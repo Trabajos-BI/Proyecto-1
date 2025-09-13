@@ -10,9 +10,16 @@ Cada integrante del grupo asumió un rol definido (líder de proyecto, líder de
        * Escucha las opiniones de los demás antes de decidir.
        * Da seguimiento a los pendientes y recuerda las fechas importantes.
        * Promueve un buen ambiente de trabajo y colaboración.
+- **Sebastían Martinez (Líder de analítica):** Se encargo de hacer modelos utilizando el algoritmo KNN, revisando hiperparametros y distancia con los k vecinos para encontrar un modelo optimo que de resultados favorables a la aplicación
+  *   **Razones de su selección:**
+       * Observa variables importantes dentro del modelo como la vectorización de columnas para analisis de estas.
+       * Mantiene el enfoque con el fin de optimizar y mejorar el rendimiento de los algoritmos implementados.
+       * Analiza distintos tipos de distancia o de metrica para encontrar la mejor del modelo.
+       * Compara datos entre modelos para ofrecer la mejor alternativa.
+       * Documenta sus registros de información ofreciendo claridad de los datos.
 - **Johan Suarez (Líder de negocio):** Se centró en mantener la alineación del proyecto con el problema identificado y con la estrategia planteada, además de priorizar funcionalidades relevantes y comunicar claramente los objetivos al grupo.
   
-  *   **RazoRazones de su selecciónnes:**
+  *   **Razones de su selección:**
        * Tiene una visión clara del problema y propone formas de resolverlo.
        * Mantiene el enfoque en que el proyecto esté alineado con los objetivos del negocio.
        * Sabe priorizar lo más importante para que el equipo trabaje en lo que aporta valor.
@@ -42,10 +49,15 @@ Cada integrante del grupo asumió un rol definido (líder de proyecto, líder de
       * **Retos enfrentados:**
    
 * **Sebastian Martinez**
-     * **Horas trabajadas:**
-     * **Algoritmo trabajado:** KNN
+     * **Horas trabajadas:** 4 horas y media
+     * **Algoritmo trabajado:** KNN usando distintos de metricas y distancia de vecinos.
      * **Retos encontrados:**
-  
+         * Uso correcto de librerias como sklearn o pandas para manejar datos y hacer modelos que sirvan para el objetivo buscado.
+         * Analisis del Canvas del proyecto, evaluando casos clave y asignaciones de trabajo.
+         * Delegación de roles y tiempos de actividad para resolución de problemas.
+         * Muestras de resultados con respecto a cada modelo dado.
+ 
+   
 * **Santiago Gomez**
     * **Horas trabajadas:** 4 horas y media.
     * **Algoritmo trabajado:** Red neuronal de clasificación usando el alroitmo Softmax.
