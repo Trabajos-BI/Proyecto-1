@@ -10,6 +10,7 @@ Cada integrante del grupo asumió un rol definido (líder de proyecto, líder de
        * Escucha las opiniones de los demás antes de decidir.
        * Da seguimiento a los pendientes y recuerda las fechas importantes.
        * Promueve un buen ambiente de trabajo y colaboración.
+         
 - **Sebastían Martinez (Líder de analítica):** Se encargo de hacer modelos utilizando el algoritmo KNN, revisando hiperparametros y distancia con los k vecinos para encontrar un modelo optimo que de resultados favorables a la aplicación
   *   **Razones de su selección:**
        * Observa variables importantes dentro del modelo como la vectorización de columnas para analisis de estas.
@@ -17,6 +18,7 @@ Cada integrante del grupo asumió un rol definido (líder de proyecto, líder de
        * Analiza distintos tipos de distancia o de metrica para encontrar la mejor del modelo.
        * Compara datos entre modelos para ofrecer la mejor alternativa.
        * Documenta sus registros de información ofreciendo claridad de los datos.
+         
 - **Johan Suarez (Líder de negocio):** Se centró en mantener la alineación del proyecto con el problema identificado y con la estrategia planteada, además de priorizar funcionalidades relevantes y comunicar claramente los objetivos al grupo.
   
   *   **Razones de su selección:**
@@ -57,11 +59,18 @@ Cada integrante del grupo asumió un rol definido (líder de proyecto, líder de
          * Delegación de roles y tiempos de actividad para resolución de problemas.
          * Muestras de resultados con respecto a cada modelo dado.
  
-   
 * **Santiago Gomez**
     * **Horas trabajadas:** 4 horas y media.
     * **Algoritmo trabajado:** Red neuronal de clasificación usando el alroitmo Softmax.
     * **Retos encontrados:**
         * Entendimiento de spaCY para el manejo correcto de datos, tokenización, eliminación de palabras innecesarias y lematización de datos.
-        * Entendimiento de redes neuronales con algoritmo de clasificación por probabilidad.
         * Graficas de muestra de resultados.
+        * Resultados iniciales lentos.
+    * **Metodos de resolución de problemas**
+        * SpaCY: Se entendieron los conceptos básicos de los temas mencionados, ademas de entender el funcionamiento de las diferentes caracteristicas de la libreria con ayuda de LLMS.
+        * Graficas: Se usó la documentacion en el proceso de creación de los plots, además de consultar los notebooks brindados en clase para obtener fuentes de codigo de estos de forma confiable.
+        * Resultados: Se realizó una busqueda gridi de los mejores hiperparemetros para el modelo, una vez encontrados estos se aplicaron en el modelo y se comento la parte de su busqueda.
+### Uso de LLMS
+* Ayuda a mejorar la redacción de la wiki, además de la redacción del canvas, cabe recalcar que los textos de forma inicial no fueron generados a travez de esta.
+* Entendimiento y explicación de errores al momento de hacer codigo.
+* Explicación y validación de scripts para el entendimiento de spaCY.
