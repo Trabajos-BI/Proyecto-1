@@ -43,10 +43,13 @@ Cada integrante del grupo asumió un rol definido (líder de proyecto, líder de
    
 * **Sebastian Martinez**
      * **Horas trabajadas:**
-     * **Algoritmo trabajado:**
+     * **Algoritmo trabajado:** KNN
      * **Retos encontrados:**
   
 * **Santiago Gomez**
     * **Horas trabajadas:** 4 horas y media.
     * **Algoritmo trabajado:** Red neuronal de clasificación usando el alroitmo Softmax.
-    * **Retos encontrados:** 
+    * **Retos encontrados:**
+        * Entendimiento de spaCY para el manejo correcto de datos, tokenización, eliminación de palabras innecesarias y lematización de datos.
+        * Entendimiento de redes neuronales con algoritmo de clasificación por probabilidad.
+        * Graficas de muestra de resultados.
